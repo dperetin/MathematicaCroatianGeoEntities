@@ -18,8 +18,8 @@ GeoListPlot[Values[adminDivisions2["KARLOVAČKA ŽUPANIJA"]],
 
 This will create:
 
-![](images/zupanije_prazno.png){:height="45%" width="45%"} 
+![](images/zupanije_prazno.png)
 
-![](images/opcine_prazno.png){:height="45%" width="45%"} 
+![](images/opcine_prazno.png)
 
-![](images/karlovac_prazno.png){:height="45%" width="45%"} 
+![](images/karlovac_prazno.png)
